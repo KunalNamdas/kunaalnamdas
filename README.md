@@ -43,4 +43,4 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/vivekmohanlohar/kunaalnamdas.git
+   git clone https://github.com/kunalnamdas/kunaalnamdas.git
